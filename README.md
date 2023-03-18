@@ -1,3 +1,8 @@
+__Advertisement__
+#### Order easy online at:
+- __[CH32V203C8T6]([https://linhkienthuduc.com/module-4g-3g-2g-gps-simcom-sim7600ce-m1s-lte-cat-4-ra-chan](https://linhkienthuduc.com/vi-dieu-khien-ch32v203c8t6-lqfp48-risc-v-mcu?amp=true)__
+----
+
 # 32-bit Enhanced Low-Power RISC-V MCU – CH32V203
 EN | [中文](README_zh.md)
 
